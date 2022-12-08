@@ -1,0 +1,13 @@
+// 1. Write a program to print natural numbers from 1 to 100?
+class StanderdProgram01 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Natural numbers from 1 to 100");
+		//Using for loop
+		for (int a = 1;a<=100;a++)
+		{
+			System.out.println(a+", ");
+		}
+	}
+}
